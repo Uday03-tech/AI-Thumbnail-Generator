@@ -32,18 +32,18 @@ export default function Footer() {
                     <a href='https://dribbble.com/prebuiltui' target='_blank' rel='noreferrer'>
                         <DribbbleIcon className='size-5 hover:text-pink-500' />
                     </a>
-                    <a href='https://www.linkedin.com/company/prebuiltui' target='_blank' rel='noreferrer'>
+                    <a href='https://www.linkedin.com/in/uday-sawant-259365289/' target='_blank' rel='noreferrer'>
                         <LinkedinIcon className='size-5 hover:text-pink-500' />
                     </a>
-                    <a href='https://x.com/prebuiltui' target='_blank' rel='noreferrer'>
+                    <a href='https://x.com/sawant59431' target='_blank' rel='noreferrer'>
                         <TwitterIcon className='size-5 hover:text-pink-500' />
                     </a>
-                    <a href='https://www.youtube.com/@prebuiltui' target='_blank' rel='noreferrer'>
+                    <a href='#' target='_blank' rel='noreferrer'>
                         <YoutubeIcon className='size-6 hover:text-pink-500' />
                     </a>
                 </div>
                 <p className='mt-3 text-center'>
-                    &copy; {new Date().getFullYear()} <a href='https://prebuiltui.com?utm_source=pixels'>Thumblify - GreatStack</a>
+                    &copy; {new Date().getFullYear()} <a href='https://prebuiltui.com?utm_source=pixels'>Thumblify - Uday Sawant</a>
                 </p>
             </motion.div>
         </footer>
